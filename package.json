@@ -1,0 +1,12 @@
+{
+  "name": "es-alert-bot",
+  "version": "1.0.0",
+  "description": "TradingView webhook -> Telegram alert that repeats until /stop",
+  "main": "es-futures-alert-bot.js",
+  "scripts": {
+    "start": "node es-futures-alert-bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
